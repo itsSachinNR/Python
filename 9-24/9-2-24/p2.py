@@ -1,0 +1,11 @@
+dic={}
+key=input("enter the subject ")
+value=int(input("enter the marks"))
+dic.update({key:value})
+key=input("enter the subject ")
+value=int(input("enter the marks"))
+dic.update({key:value})
+key=input("enter the subject ")
+value=int(input("enter the marks"))
+dic.update({key:value})
+print(dic)
